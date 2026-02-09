@@ -32,3 +32,19 @@ def dog(name, breed, age) :
 dog("Bob", "German Shepherd", 4)
 dog("Mary", "Chihuahua", 2)
 dog("Peter", "Siberian Husky", 5)
+
+
+
+
+
+
+def ppl(fullname, position, gender, age):
+    print (fullname, position, gender, age)
+
+print()
+
+ppl("Ann", "CEO", "Female", 40)
+ppl("Kyle", "Opperations Manager", "Male", 30)
+ppl("Steve", "Secretary", "Male", 25)
+ppl("Angie", "Manager", "Female", 29)
+ppl("Jasmine", "Accountant", "Female", 32)

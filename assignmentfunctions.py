@@ -3,6 +3,8 @@ print("Employees at eMobilis:")
 def ppl(fullname, position, gender, age):
     print (fullname, position, gender, age)
 
+print()
+
 ppl("Ann", "CEO", "Female", 40)
 ppl("Kyle", "Opperations Manager", "Male", 30)
 ppl("Steve", "Secretary", "Male", 25)
