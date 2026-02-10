@@ -24,8 +24,8 @@ add()
 
 print()
 
-#Parameters/Variable
-#Arguments/Values
+#Parameters/Variable - inside the brackets of a function
+#Arguments/Values - values passed when calling a function
 def dog(name, breed, age) :
     print (name, breed, age)
 
