@@ -3,7 +3,7 @@
 
 class Employee:
 
-    #Attributes
+    #Behaviours
     def __init__(self, fullname, position, status, age):
         self.fullname = fullname
         self.position = position
