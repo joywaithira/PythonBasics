@@ -36,7 +36,6 @@ c = Cat()
 
 h = Horse()
 
-
 #now call on something by varriable and a dot (a.move)
 #to do inheritance your class has to be public which is normally the case in python only
 

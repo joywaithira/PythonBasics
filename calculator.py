@@ -2,11 +2,11 @@
 #first no operator and last number else invalid operator
 from selectors import SelectSelector
 
-firstno = float(input("Enter first number:"))
+firstno = int(input("Enter first number:"))
 
 operator = input("Input an operator:")
 
-secondno = float(input("Enter second number:"))
+secondno = int(input("Enter second number:"))
 
 if operator == "+":
     print(firstno + secondno)
